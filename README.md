@@ -32,4 +32,5 @@ The purpose of this project is to:
 
 - Python  
 - TensorFlow / Keras  
-- NumPy, Pandas, Matplotlib  
+- NumPy, Pandas, Matplotlib
+- Scikit-learn  
