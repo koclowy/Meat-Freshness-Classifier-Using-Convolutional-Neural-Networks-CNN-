@@ -33,4 +33,3 @@ The purpose of this project is to:
 - Python  
 - TensorFlow / Keras  
 - NumPy, Pandas, Matplotlib  
-- OpenCV (for image preprocessing)
